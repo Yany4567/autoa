@@ -18,7 +18,7 @@
     [super viewDidLoad];
     NSLog(@"1234");
     NSLog(@"2222");
-     NSLog(@"2222");
+    NSLog(@"2222");
      NSLog(@"2222");
      NSLog(@"2222");
      NSLog(@"2222");
@@ -30,6 +30,7 @@
     
     
     
+    NSLog(@"add a new xg branch");
     
     
     // Do any additional setup after loading the view, typically from a nib.
